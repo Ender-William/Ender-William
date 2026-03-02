@@ -43,21 +43,3 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_shuffle: yes
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: chartist
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: random
